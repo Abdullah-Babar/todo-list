@@ -1,6 +1,6 @@
 {
-  "name": "todo-list",
-  "version": "1.0.0",
+  "name": "abd994-todo-list",
+  "version": "1.0.1",
   "description": "This is my simple Todo List",
   "main": "main.js",
   "type": "module",
